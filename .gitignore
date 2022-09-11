@@ -1,4 +1,3 @@
 # Dependency directory
 node_modules
-# Environment Variables should NEVER be published
-.env
+
